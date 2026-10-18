@@ -1,7 +1,13 @@
 in java we can define public class as name as a java file name.
 we can change the value of int and string data type after the declaration.
 
+rules while creating veriable : case sensitive, starting charactor, subsequent charactor, No reserve keywords, length or meaning full name, convention : camelCase, uppercase for constant 
+
+
 in java there are two types of dataypes we use 
 1: Primitive : byte, short, char, boolen, int, long, float, double
 2: Non Primitive : String, Array, Class, Object, Interface
 
+rules while creating veriable : case sensitive, starting charactor, subsequent charactor, No reserve keywords, length or meaning full name, convention : camelCase, uppercase for constant.
+
+// ASCII code of a character is its numerical representation in the ASCII table. In Java, when you perform arithmetic operations on a char, it is implicitly converted to its corresponding ASCII value (which is an integer).
